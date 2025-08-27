@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.env/
+.conda/
+conda-env.yaml
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Models / artifacts
+artifacts/
+*.pt
+*.pth
+*.npy
+*.json
+
